@@ -6,77 +6,77 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-	- [Dependency Management](#dependency-management)
-	- [Dependency Management Extras](#dependency-management-extras)
-	- [Frameworks](#frameworks)
-	- [Framework Extras](#framework-extras)
-	- [Components](#components)
-	- [Micro Frameworks](#micro-frameworks)
-	- [Micro Framework Extras](#micro-framework-extras)
+    - [Dependency Management](#dependency-management)
+    - [Dependency Management Extras](#dependency-management-extras)
+    - [Frameworks](#frameworks)
+    - [Framework Extras](#framework-extras)
+    - [Components](#components)
+    - [Micro Frameworks](#micro-frameworks)
+    - [Micro Framework Extras](#micro-framework-extras)
     - [Routers](#routers)
-	- [Templating](#templating)
-	- [Static Site Generators](#static-site-generators)
-	- [HTTP](#http)
-	- [Middlewares](#middlewares)
-	- [URL](#url)
-	- [Email](#email)
-	- [Files](#files)
-	- [Streams](#streams)
-	- [Dependency Injection](#dependency-injection)
-	- [Imagery](#imagery)
-	- [Testing](#testing)
-	- [Continuous Integration](#continuous-integration)
-	- [Documentation](#documentation)
-	- [Security](#security)
-	- [Passwords](#passwords)
-	- [Code Analysis](#code-analysis)
-	- [Architectural](#architectural)
-	- [Debugging and Profiling](#debugging-and-profiling)
-	- [Build Tools](#build-tools)
-	- [Task Runners](#task-runners)
-	- [Navigation](#navigation)
-	- [Asset Management](#asset-management)
-	- [Geolocation](#geolocation)
-	- [Date and Time](#date-and-time)
-	- [Event](#event)
-	- [Logging](#logging)
-	- [E-commerce](#e-commerce)
-	- [PDF](#pdf)
-	- [Office](#office)
-	- [Database](#database)
-	- [Migrations](#migrations)
-	- [NoSQL](#nosql)
-	- [Queue](#queue)
-	- [Search](#search)
-	- [Command Line](#command-line)
-	- [Authentication and Authorization](#authentication-and-authorization)
-	- [Markup](#markup)
-	- [Strings](#strings)
-	- [Numbers](#numbers)
-	- [Filtering and Validation](#filtering-and-validation)
-	- [API](#api)
-	- [Caching](#caching)
-	- [Data Structure and Storage](#data-structure-and-storage)
-	- [Notifications](#notifications)
-	- [Deployment](#deployment)
-	- [Internationalisation and Localisation](#internationalisation-and-localisation)
-	- [Third Party APIs](#third-party-apis)
-	- [Extensions](#extensions)
-	- [Miscellaneous](#miscellaneous)
+    - [Templating](#templating)
+    - [Static Site Generators](#static-site-generators)
+    - [HTTP](#http)
+    - [Middlewares](#middlewares)
+    - [URL](#url)
+    - [Email](#email)
+    - [Files](#files)
+    - [Streams](#streams)
+    - [Dependency Injection](#dependency-injection)
+    - [Imagery](#imagery)
+    - [Testing](#testing)
+    - [Continuous Integration](#continuous-integration)
+    - [Documentation](#documentation)
+    - [Security](#security)
+    - [Passwords](#passwords)
+    - [Code Analysis](#code-analysis)
+    - [Architectural](#architectural)
+    - [Debugging and Profiling](#debugging-and-profiling)
+    - [Build Tools](#build-tools)
+    - [Task Runners](#task-runners)
+    - [Navigation](#navigation)
+    - [Asset Management](#asset-management)
+    - [Geolocation](#geolocation)
+    - [Date and Time](#date-and-time)
+    - [Event](#event)
+    - [Logging](#logging)
+    - [E-commerce](#e-commerce)
+    - [PDF](#pdf)
+    - [Office](#office)
+    - [Database](#database)
+    - [Migrations](#migrations)
+    - [NoSQL](#nosql)
+    - [Queue](#queue)
+    - [Search](#search)
+    - [Command Line](#command-line)
+    - [Authentication and Authorization](#authentication-and-authorization)
+    - [Markup](#markup)
+    - [Strings](#strings)
+    - [Numbers](#numbers)
+    - [Filtering and Validation](#filtering-and-validation)
+    - [API](#api)
+    - [Caching](#caching)
+    - [Data Structure and Storage](#data-structure-and-storage)
+    - [Notifications](#notifications)
+    - [Deployment](#deployment)
+    - [Internationalisation and Localisation](#internationalisation-and-localisation)
+    - [Third Party APIs](#third-party-apis)
+    - [Extensions](#extensions)
+    - [Miscellaneous](#miscellaneous)
 - [Software](#software)
-	- [PHP Installation](#php-installation)
-	- [Development Environment](#development-environment)
-	- [Virtual Machines](#virtual-machines)
-	- [Integrated Development Environment](#integrated-development-environment)
-	- [Web Applications](#web-applications)
-	- [Infrastructure](#infrastructure)
+    - [PHP Installation](#php-installation)
+    - [Development Environment](#development-environment)
+    - [Virtual Machines](#virtual-machines)
+    - [Integrated Development Environment](#integrated-development-environment)
+    - [Web Applications](#web-applications)
+    - [Infrastructure](#infrastructure)
 - [Resources](#resources)
-	- [PHP Websites](#php-websites)
-	- [Other Websites](#other-websites)
-	- [PHP Books](#php-books)
-	- [PHP Videos](#php-videos)
-	- [PHP Reading](#php-reading)
-	- [PHP Internals Reading](#php-internals-reading)
+    - [PHP Websites](#php-websites)
+    - [Other Websites](#other-websites)
+    - [PHP Books](#php-books)
+    - [PHP Videos](#php-videos)
+    - [PHP Reading](#php-reading)
+    - [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
 
 ## Dependency Management
@@ -108,7 +108,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
-* [CakePHP](http://cakephp.org/) - A rapid application development framework.
+* [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 
 ## Framework Extras
@@ -116,13 +116,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 * [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
+* [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
 ## Components
-*Standalone component from web development frameworks and development groups.*
+*Standalone components from web development frameworks and development groups.*
 
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components.
+* [CakePHP Plugins](http://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 
@@ -133,8 +135,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](http://lumen.laravel.com) - A micro-framework by Laravel.
-* [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
-* [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework
 
 ## Micro Framework Extras
@@ -191,8 +191,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for parsing URLs.*
 
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
+* [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-* [Url](https://github.com/thephpleague/url) - A simple URL manipulation library.
 
 ## Email
 *Libraries for sending and parsing email.*
@@ -425,6 +425,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [Cake Event](https://github.com/cakephp/event) - An event dispatcher library (CP).
 * [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
 
 ## Logging
@@ -457,7 +458,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A library for working with Microsoft Excel documents.
-* [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft Word documents.
+* [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft PowerPoint Presentations.
 * [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
 
 ## Database
@@ -472,6 +473,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
@@ -524,8 +526,8 @@ Libraries to help manage database schemas and migrations.
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
 
-* [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
-* [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
+* [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
+* [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 * [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 * [OAuth2 Server](http://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 * [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
@@ -543,7 +545,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Decoda](http://milesj.me/code/php/decoda) - A lightweight markup parser library.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://jgm.github.io/stmd/spec.html).
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](http://spec.commonmark.org/).
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
@@ -581,8 +583,9 @@ Libraries to help manage database schemas and migrations.
 *Libraries for filtering and validating data.*
 
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
+* [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
+* [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
@@ -605,6 +608,7 @@ Libraries to help manage database schemas and migrations.
 * [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
 * [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
+* [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 
@@ -620,6 +624,7 @@ Libraries to help manage database schemas and migrations.
 * [Totem](http://github.com/Wisembly/Totem) - A library to manage and create data changesets.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A real Linq library for PHP.
 * [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+* [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
 
 ## Notifications
 *Libraries for working with notification software.*
@@ -642,6 +647,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for Internationalization (I18n) and Localization (L10n).*
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
+* [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -705,6 +711,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
+* [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 
 # Software
 *Software for creating a development environment.*
